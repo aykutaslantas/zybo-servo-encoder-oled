@@ -1,0 +1,22 @@
+# Vivado / Vitis uretilen dosyalar
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
+*.ip_user_files/
+*.xpr
+*.jou
+*.log
+*.str
+*.wdb
+*.bit
+*.xsa
+.Xil/
+vivado*.backup.*
+_ide/
+.vitis/
+build/
+
+# Python
+__pycache__/
